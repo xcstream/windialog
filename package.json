@@ -1,0 +1,20 @@
+{
+  "name": "windialog",
+  "version": "1.0.0",
+  "description": "messagbox for nodejs",
+  "main": "index.js",
+  "keywords": ["messagebox","dialog","alert","tts"],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcstream/windialog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcstream/windialog/issues"
+  },
+  "homepage": "https://github.com/xcstream/windialog#readme"
+}
